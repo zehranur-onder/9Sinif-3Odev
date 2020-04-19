@@ -55,7 +55,8 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 
 a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
 
-**Denklemim: x=-1,22t^24,83E-o3+1,8t.a hızın değişimini gösteren katsayı olabilir,b atış hızı olabilir.a değerinin negatif çıkmasının hızdaki negatif yönlü değişim olabilir.
+**Denklemim: x=-1,22t^24,83E-o3+1,8t.**
+**a hızın değişimini gösteren katsayı olabilir,b atış hızı olabilir.a değerinin negatif çıkmasının hızdaki negatif yönlü değişim olabilir.**
 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
 
