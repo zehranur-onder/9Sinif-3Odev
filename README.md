@@ -80,22 +80,22 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
 
-**İvme denklemini grafikte eğriyi doğrusal kabul ettiğimde 1,74x-3,01 buldum.Kinetik sürtünme katsayısını da 0,16 buldum.Değerleri doğrusal bir denklem oluşturarak bulduğum için bulduğum sonuçlar olması gerekene yakın değil.**
+  **İvme denklemini grafikte eğriyi doğrusal kabul ettiğimde 1,74x-3,01 buldum.Kinetik sürtünme katsayısını da 0,16 buldum.Değerleri doğrusal bir denklem oluşturarak bulduğum için bulduğum sonuçlar olması gerekene yakın değil.**
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
 
-**Zamandaki ölçüm hatası 1/60 mili saniye olabilir.Konum değerlerini bulurken milimetrik hesaplar yapmadığımızdan bazı kaymalar olmuş olabilir.**
+  **Zamandaki ölçüm hatası 1/60 mili saniye olabilir.Konum değerlerini bulurken milimetrik hesaplar yapmadığımızdan bazı kaymalar olmuş olabilir.**
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
 Yardım:
 Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.
 
-**Grafikte doğrusal bir ivme sonucu bulmadığımdan ilk hız değerini bulamadım.**
+  **Grafikte doğrusal bir ivme sonucu bulmadığımdan ilk hız değerini bulamadım.**
 
-**Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.**
+Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
 
 3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
 
-**Bulunamazdı.**
+  **Bulunamazdı.**
