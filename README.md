@@ -55,7 +55,7 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 
 a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
 
-**Denklemim: x=-1,22t^24,83E-o3+1,8t.**
+**Denklemim: x=-1,22t^24,83E-03+1,8t.**
 **a hızın değişimini gösteren katsayı olabilir,b atış hızı olabilir.a değerinin negatif çıkmasının sebebi hızdaki negatif yönlü değişim olabilir.**
 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
@@ -92,7 +92,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 Yardım:
 Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.
 
-  **Grafikte doğrusal bir ivme sonucu bulmadığımdan ilk hız değerini bulamadım.**
+  
 
 Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
 
